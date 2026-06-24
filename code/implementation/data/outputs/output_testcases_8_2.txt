@@ -1,0 +1,5 @@
+Resultados de Satisfaccion para testcases_8_2 (n=8, M=1314, E=332):
+BruteForce: 1948
+Greedy1: 1217
+Greedy2: 1677
+DynamicProgramming: 1948

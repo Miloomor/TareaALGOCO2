@@ -1,0 +1,5 @@
+Resultados de Satisfaccion para testcases_100_2 (n=100, M=9524, E=4972):
+BruteForce: N/A
+Greedy1: 20042
+Greedy2: 19326
+DynamicProgramming: 21077

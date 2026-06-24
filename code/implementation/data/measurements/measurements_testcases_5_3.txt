@@ -1,0 +1,5 @@
+Algorithm,N,M,E,Satisfaction,Time_ms,Memory_KB,Skipped
+BruteForce,5,527,221,899,2.7280,3584,0
+Greedy1,5,527,221,695,2.5935,3584,0
+Greedy2,5,527,221,722,2.1140,3584,0
+DynamicProgramming,5,527,221,899,7.2278,5276,0

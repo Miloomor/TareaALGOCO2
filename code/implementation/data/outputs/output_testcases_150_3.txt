@@ -1,0 +1,5 @@
+Resultados de Satisfaccion para testcases_150_3 (n=150, M=12551, E=8485):
+BruteForce: N/A
+Greedy1: 26585
+Greedy2: 25787
+DynamicProgramming: 28754

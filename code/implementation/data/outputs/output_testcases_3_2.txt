@@ -1,0 +1,5 @@
+Resultados de Satisfaccion para testcases_3_2 (n=3, M=255, E=134):
+BruteForce: 395
+Greedy1: 311
+Greedy2: 328
+DynamicProgramming: 395

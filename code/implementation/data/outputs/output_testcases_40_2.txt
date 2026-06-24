@@ -1,0 +1,5 @@
+Resultados de Satisfaccion para testcases_40_2 (n=40, M=4335, E=1811):
+BruteForce: N/A
+Greedy1: 8972
+Greedy2: 8568
+DynamicProgramming: 9503
