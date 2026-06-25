@@ -1,3 +1,8 @@
+/*
+ * Autor: Emilio Moran Valdebenito
+ * Rol: 202473575-6
+ * Tarea 2 - INF-221 Algoritmos y Complejidad (2026-1)
+ */
 // Greedy 2 - AniMarathon
 // Criterio: seleccion marginal por capitulo. En cada paso, entre todos los
 // animes, elige el proximo capitulo (siguiente del prefijo actual) con mejor

@@ -1,3 +1,8 @@
+/*
+ * Autor: Emilio Moran Valdebenito
+ * Rol: 202473575-6
+ * Tarea 2 - INF-221 Algoritmos y Complejidad (2026-1)
+ */
 // Programacion Dinamica - AniMarathon
 // Knapsack 2D (tiempo, energia) con grupos de items (prefijos por anime).
 // dp[m][e] = max satisfaccion usando exactamente m minutos y e energia.

@@ -1,5 +1,9 @@
 # Documentación del Proyecto: AniMarathon
 
+**Autor:** Emilio Moran Valdebenito
+**Rol USM:** 202473575-6
+**Asignatura:** INF-221 Algoritmos y Complejidad (2026-1)
+
 Este directorio contiene las implementaciones de los algoritmos de resolución para el problema **AniMarathon**, las herramientas para generar casos de prueba, y la infraestructura para medir rendimiento y generar gráficos comparativos.
 
 ## Estructura del Directorio

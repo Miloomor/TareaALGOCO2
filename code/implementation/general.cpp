@@ -1,3 +1,8 @@
+/*
+ * Autor: Emilio Moran Valdebenito
+ * Rol: 202473575-6
+ * Tarea 2 - INF-221 Algoritmos y Complejidad (2026-1)
+ */
 #include <iostream>
 #include <fstream>
 #include <string>
